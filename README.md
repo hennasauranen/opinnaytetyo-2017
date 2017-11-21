@@ -15,9 +15,10 @@ Täältä löytyy isomorfinen testisovellukseni.
     - Json-server -kansiosta löytyy animals-json.json niminen tiedosto, josta sovellus hakee tietonsa. Sovellus on laitettu kuuntelemaan osoitetta 'http://localhost:4000/animals-json'
 4. Käynnistä sovellus komennolla yarn start
 
-Miksi Json-server?
+<h3>Miksi Json-server?</h3>
 Json-serverillä on ominaisuus, että sillä voi suoraan, ilman itserakennettuja toimintoja serverin ja clientil välille, hakea yksittäisten osioiden tiedot suoraan syöttämällä niiden avain linkin perään. 
-|Esim. Jos on json tietosto, jossa on avaimina kissa ja koira linkki: http://localhost:4000/animals-json/kissa palauttaa clientille Jsonin, jossa on pelkän kissan tiedot.
+
+Esim. Jos on json tietosto, jossa on avaimina kissa ja koira linkki: http://localhost:4000/animals-json/kissa palauttaa clientille Jsonin, jossa on pelkän kissan tiedot.
 Tätä ominaisuutta tarvitaan isomorfisessa rakenteessa.
 
 Tämä sovellus käyttää Welly Shenin repoa, jonka löytää osoitteesta <li href="https://github.com/wellyshen/react-cool-starter">https://github.com/wellyshen/react-cool-starter</li> 
