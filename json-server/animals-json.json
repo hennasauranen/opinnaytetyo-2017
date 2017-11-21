@@ -1,0 +1,41 @@
+
+
+{"animals-json":[
+  {
+    "id": "kissa",
+    "name": "Kissa",
+    "country": "cu",
+    "birth": "1973",
+    "image": "../img/cat.jpg",
+    "link": "https://fi.wikipedia.org/wiki/Kissa",
+    "kuvaus":"Kissa eli kesykissa on mukava lemmikki.",
+    "intro":"Kissa eli kesykissa tai kotikissa (Felis catus aiemmin Felis silvestris catus) on metsäkissasta (Felis silvestris) polveutuva ja petoeläinten (Carnivora) lahkon kissaeläinten (Felidae) heimoon kuuluvakesy nisäkäslaji. Kissapopulaatioita kesyyntyi ehkä jo heti maanviljelyksen alkuvaiheessa. Kissa ei ole pelkästään kotilemmikki, vaan maalla ja etenkinmaatiloilla kissat ovat hyötyeläimiä hiirien, rottien ja muiden tuholaisten pyydystäjinä. Kissat leikkivät mielellään, varsinkin nuorina, mutta harjoittelevat aikuisinakin leikkimällä saalistusta. Kissa on siisti eläin: se oppii helposti tekemään tarpeensa hiekkalaatikolle ja pitää itsensä puhtaana nuolemalla turkkinsa. Tyytyväisen kissan sanotaan kehräävän eli hyrisevän. Kissat voivat kehrätä myös hermostuneina, loukkaantuneina tai esimerkiksi tappelun jälkeen alistumisen ja hyväntahtoisuuden merkiksi. Kissa voi oppia erilaisia temppuja, esimerkiksi istumaan tai seisomaan takatassuillaan. Joskus kissa saattaa hyvin tieä mitä siltä odotetaan, mutta valitsee itse toisin."
+  },
+  {
+    "id": "koira",
+    "name": "Koira",
+    "image": "../img/koira.jpg",
+    "link": "https://fi.wikipedia.org/wiki/Koira",
+    "kuvaus":"Koira on ihmisen parasystävä ja mahti otus",
+    "intro":"Koira eli kesykoira (Canis lupus familiaris, aiemmin Canis familiaris) on suden kesy, jalostettu muoto. Se kuuluu nisäkkäiden luokkaan ja koiraeläinten heimoon. Koira on petoeläin. Koira on ihmisen kesyttämistä eläimistä vanhin. Kesyyntymisen alkuaikoina koirasta on ollut hyötyä varoittavana vahtina sekä jätteensyöjänä. Pohjoisessa koira oli tehokas vetoapu, ja karjankasvatuksen alkaessa sitä käytettiin paimentajana. Myös metsästyksessä koira on korvaamaton apu. Vielä nykyäänkin koiria käytetään samoihin tehtäviin. Koiran tehtävät ovat kuitenkin laajentuneet ja mukaan on tullut muun muassa huume-, opas-, vartio- sekä pelastuskoiria; monissa tehtävissä hyödynnetään koiran tarkkaa hajuaistia. Erityisesti ihmisen kanssa kasvatetut koirat on helppo opettaa tekemään asioita ihmisen käskystä, ja ne ovat helposti motivoitavissa makupaloilla, leluilla tai sosiaalisella kontaktilla."
+  },
+  {
+    "id": "tiikeri",
+    "name": "Tiikeri",
+    "image": "../img/tiikeri.jpg",
+    "link": "https://fi.wikipedia.org/wiki/Tiikeri",
+    "kuvaus":"Tiikeri on hurja kissapeto, jolla on raitoja",
+    "intro":"Tiikeri (Panthera tigris) on suuri Panthera-sukuun kuuluva uhanalainen kissaeläinlaji, joka elää Itä- ja Kaakkois-Aasiassa, enimmäkseen trooppisissa sademetsissä. Tiikerin turkki on oranssinsävyinen ja siinä on tummia poikkijuovia. Tiikeri painaa yleensä noin 100–270 kilogrammaa ja sen säkäkorkeus on noin 120 senttimetriä. Tiikeri on jaettu yhdeksään alalajiin. Se on lihansyöjä, eikä sillä ole muita vihollisia kuin ihminen, lähinnä salametsästäjät. Tiikerin silmät ovat tyypillisillä värimuodoilla kellanruskeat. Se saalistaa ennen kaikkea näkönsä avulla, joten näkökenttä on laaja ja näkö hyvin tarkka. Silmän verkkokalvon alla on erityinen heijastuskerros (tapetum lucidum), joka palauttaa aistinsolujen ohi päässeen valon takaisin. Tämän vuoksi tiikerin hämäränäkö on erittäin tarkka ja sen silmät kiiluvat pimeässä samaan tapaan kuin kissalla. Tiikerin turkin väritys ja paksuus riippuu sekin alalajista. Kylmillä alueilla elävällä siperiantiikerillä karvojen pituus saattaa olla talvella jopa 10 senttimetriä. Tyypillisesti turkki on lyhyt ja tiheä. Kiiltävän karvapeitteen pohjaväri on oranssiin vivahtava ja muuttuu vatsassa valkoiseksi. Lisäksi tiikerillä on valkeita täpliä korvien takana ja naamassa. Tummat poikkijuovat alkavat selkäviivalta ja päättyvät vatsan tuntumaan. Hännässä juovat ovat rengasmaiset ja jaloissa vaakasuorat. Jokaisen tiikerin juovitus on yksilöllinen kuin ihmisen sormenjälki, ja eri yksilöt voi tunnistaa kuvioinnin perusteella. Harva tietää, että tiikerin ihossakin on juovia. Pennut syntyvät raidallisina, mutta pohjaväriltään hieman aikuisia haaleampina."
+  },
+  {
+    "id": "karhu",
+    "name": "Karhu",
+    "image": "../img/karhu.jpg",
+    "link": "https://fi.wikipedia.org/wiki/Karhu",
+    "kuvaus":"Karhu eli kontio on metsän kuningas ja pörröinen",
+    "intro":"Karhu (Ursus arctos) on Euroopan suurimpia petoeläimiä. Sen eri alalajeja tavataan monilla alueilla Euraasiassa ja Pohjois-Amerikassa. Karhun pituus on 135–250 senttimetriä ja paino 60–300 kilogrammaa, uros on selvästi suurempi kuin naaras. Karhun ruskean turkin sävy vaihtelee melkein mustasta vaalean kellanharmaaseen. Karhu on Euroopan suurimpia petoeläimiä. Eurooppalaisen ruskeakarhun pituus on 135–250 senttimetriä ja hännän pituus on 5–15 senttimetriä. Naaraskarhun säkäkorkeus on 80–90 senttimetriä ja uroksen 90–125 senttimetriä. Naaraat painavat 60–200 kilogrammaa, urokset 100–300 kilogrammaa. Suurin punnittu luonnossa elänyt suomalainen karhu on painanut 373 kilogrammaa. Kuusamon Suurpetokeskuksessa elävän kesyn Juuso-karhun painoksi on punnittu 483 kilogrammaa. Pohjoisamerikkalaiset alalajit harmaakarhu ja kodiakinkarhu voivat kasvaa huomattavasti suuremmiksi ja painaa jopa 650 kilogrammaa. Kaikkein pienin alalaji on syyriankarhu. Kaikki karhun alalajit ovat tukevarakenteisia, isopäisiä ja kyttyräselkäisiä. Niillä on tuuhea turkki ja vahvat tassut, jotka soveltuvat paremmin kaivamiseen kuin puissa kiipeilyyn. Karhun korvat ovat pienet ja pyöreäpäiset, mutta kuitenkin selvästi erottuvat"
+  }
+
+]
+
+}

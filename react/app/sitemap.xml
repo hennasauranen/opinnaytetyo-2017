@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://react-seo-sauranen.herokuapp.com/</loc>
+  </url>
+  <url>
+    <loc>https://react-seo-sauranen.herokuapp.com/elaimet/</loc>
+  </url>
+  <url>
+    <loc>https://react-seo-sauranen.herokuapp.com/elaimet/kissa/</loc>
+  </url>
+  <url>
+    <loc>https://react-seo-sauranen.herokuapp.com/elaimet/koira/</loc>
+  </url>
+  <url>
+    <loc>https://react-seo-sauranen.herokuapp.com/elaimet/tiikeri/</loc>
+  </url>
+  <url>
+    <loc>https://react-seo-sauranen.herokuapp.com/elaimet/karhu/</loc>
+  </url>
+</urlset>
