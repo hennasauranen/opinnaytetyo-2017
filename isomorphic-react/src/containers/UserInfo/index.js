@@ -34,7 +34,7 @@ export class UserInfo extends PureComponent<Props> {
     }
 
     if (userInfoById.readyStatus === action.USER_FAILURE) {
-      return <p>Oops, Failed to load info!</p>;
+      return <p>Eläimien JSON tiedostoa ei tavoiteta! Onhan Json-server päällä? </p>;
     }
 
     return <UserCard info={userInfoById.info} />;

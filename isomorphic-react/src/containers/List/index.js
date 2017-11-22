@@ -32,7 +32,7 @@ export class Home extends PureComponent<Props> {
     }
 
     if (home.readyStatus === action.USERS_FAILURE) {
-      return <p>Oops, Failed to load list!</p>;
+      return <p>Eläimien JSON tiedostoa ei tavoiteta! Onhan Json-server päällä?</p>;
     }
 
     return <UserList list={home.list} />;
