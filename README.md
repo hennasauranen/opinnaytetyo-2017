@@ -58,7 +58,7 @@ yarn
 ```
 yarn start
 ```
-5.sovellus näkyy selaimessa osoitteessa 
+5. Sovellus näkyy selaimessa osoitteessa 
 ```
 localhost:3000
 ```
