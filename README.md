@@ -53,14 +53,17 @@ cd react
 yarn
 ```
  - Tämä lataa tarvittavat riippuvuudet, jotta sovellus saadaan kasaan.
+ 
 4. Käynnistä sovellus komennolla
 ```
 yarn start
 ```
+
 5.sovellus näkyy selaimessa osoitteessa 
 ```
 localhost:3000
 ```
+
 6. Tähän sovellukseen et tarvitse Json-serveriä, sillä sovellus on rakenteeltaan erilainen kuin isomorfinen sovellus. Tähän sovellukseen koko Json tuodaan kerralla <li href="https://api.myjson.com/bins/1aeuin">tästä osoitteesta</li> ja puretaan se clientin puolella. 
 
 Tämä sovelluksen boilerplate: https://www.reactboilerplate.com/
