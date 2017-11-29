@@ -1,4 +1,4 @@
-# opinnaytetyo-2017
+# 0pinnäytetyö 2017
 
 Täältä löytyy opinnäytetyöni testisovellukset, joita käytin havainnointiin ja testaukseen opinnäytetyössäni.
 Lataa kokopaketti komennolla:
