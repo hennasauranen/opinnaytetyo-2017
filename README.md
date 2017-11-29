@@ -5,13 +5,13 @@ Lataa kokopaketti komennolla:
 ```
 git clone https://github.com/hennasauranen/opinnaytetyo-2017.git
 ```
-Käytän työssä npm:n sijaan Yarn:ia, jonka voit asentaa täältää: https://yarnpkg.com/lang/en/
+Käytän työssä npm:n sijaan Yarn:ia, jonka voit asentaa tältää: https://yarnpkg.com/lang/en/
 
 ## Kansio isomorphic-react
 
 Täältä löytyy isomorfinen testisovellukseni.
 
-1. Siirry kansioon isomorphic-react ja asenna riippuudet: 
+1. Siirry kansioon isomorphic-react ja asenna riippuvuudet: 
 ```
 cd isomorphic-react
 yarn
@@ -64,4 +64,4 @@ localhost:3000
 ```
 6. Tähän sovellukseen et tarvitse Json-serveriä, sillä sovellus on rakenteeltaan erilainen kuin isomorfinen sovellus. Tähän sovellukseen koko Json tuodaan kerralla <li href="https://api.myjson.com/bins/1aeuin">tästä osoitteesta</li> ja puretaan se clientin puolella. 
 
-Tämä sovelluksen boilerplate: https://www.reactboilerplate.com/
+Tämän sovelluksen boilerplate: https://www.reactboilerplate.com/
