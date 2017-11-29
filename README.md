@@ -24,7 +24,7 @@ yarn
 cd ../json-server
 json-server -p 4000 animals-json.json
 ```
- - Json-server -kansiosta löytyy animals-json.json niminen tiedosto, josta sovellus hakee tietonsa. Sovellus on laitettu kuuntelemaan osoitetta 'http://localhost:4000/animals-json' 
+ - Json-server -kansiosta löytyy animals-json.json niminen tiedosto, josta sovellus hakee tietonsa. Sovellus on laitettu ottamaan yhteyttä osoitteeseen 'http://localhost:4000/animals-json', kun se hakee JSON dataa.
  
 4. Käynnistä sovellus ensimmäisellä command-linella komennolla 
 ```
